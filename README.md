@@ -8,9 +8,8 @@ The purpose of this project was to create VBA code that will automatically calcu
 
 ###Results
 
-After running the script and looking at the results, once can clearly see that the stocks in 2017 were much more profitable than the following year. 
+After running the script and looking at the results, once can clearly see that the stocks in 2017 were much more profitable than the following year. However, there are 2 stocks that outstand the other stocks by generating positive returns, ENPH and RUN. These stocks are clearly the best stocks to invest in. 
+
 ![Results 2017](https://user-images.githubusercontent.com/88448731/185767131-f926fabf-62a2-4351-9540-8951248b49c0.PNG) ![Results 2018](https://user-images.githubusercontent.com/88448731/185767135-8f5d1715-a81b-4148-a904-684019709938.PNG)
-
-
 
 ### Summary
